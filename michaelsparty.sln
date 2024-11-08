@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35410.144
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "michaelsparty", "michaelsparty.csproj", "{6FCE9C35-9C82-4064-8382-6AA8A199DC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ratlab", "..\ratlab\ratlab.csproj", "{E3577449-E58A-4AAC-B637-32BC56B81FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCE9C35-9C82-4064-8382-6AA8A199DC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCE9C35-9C82-4064-8382-6AA8A199DC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCE9C35-9C82-4064-8382-6AA8A199DC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCE9C35-9C82-4064-8382-6AA8A199DC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3577449-E58A-4AAC-B637-32BC56B81FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3577449-E58A-4AAC-B637-32BC56B81FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3577449-E58A-4AAC-B637-32BC56B81FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3577449-E58A-4AAC-B637-32BC56B81FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BE57B1-F62F-45E9-B444-0CFFB983C1D9}
+	EndGlobalSection
+EndGlobal
